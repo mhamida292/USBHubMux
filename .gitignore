@@ -1,0 +1,16 @@
+# KiCad local history snapshots
+.history/
+
+# KiCad backups
+*-backups/
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# KiCad cache / temp
+fp-info-cache
+~*.lck
+
+# OS
+Thumbs.db
+.DS_Store
